@@ -22,7 +22,7 @@ Je suis ou plutot je m'entraine a devenir un devellopeur fullStack du Gabon <img
 
 -🌱   Je travail de temps a autre sur des project educatif comme des application ou jeu webs , des plugins de jeu video ou des bots sur Node.js
 
--📱 Me contacter : 24160338758 . Je suis disponible pour toutes collaboration
+-📱 Me contacter : 24105730123 . Je suis disponible pour toutes collaboration
 
 ---
 
