@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://files.catbox.moe/5tznie.jpeg" height="200"/> <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-PAPAIGWE241&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-Crazynotdev&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
   hey there
@@ -24,7 +24,10 @@ Je suis ou plutot je m'entraine a devenir un devellopeur fullStack du Gabon <img
 
 -📱 Me contacter : 24105730123 . Je suis disponible pour toutes collaboration
 
----
+
+![You Did It!](https://media.giphy.com/media/l4FGtYyvYVyk0hV4U/giphy.gif)
+
+
 
 ### :hammer_and_wrench: Mes principaux Languages de programmation :
 
