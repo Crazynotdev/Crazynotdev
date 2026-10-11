@@ -22,6 +22,7 @@ Toujours en quête d'apprentissage, j'aime construire des projets utiles et inno
 
 - 🎓 Étudiant en développement informatique (web & backend)
 - 🎮 Création de **jeux éducatifs**, **plugins Minecraft**, **application Saas**, **pentesting script et autre..** et **bots Node.js**
+- 🎓 certifié en cybersécurité CCNA & GT Academy
 - 🔍 Exploration des **API**, **bases de données** et **interfaces modernes**
 - 🌱 Actuellement en train d'apprendre : **React**, **PostgreSQL**, **Docker**
 - 📫 Me contacter : [WhatsApp](https://wa.me/24105730123) • [Email](mailto:techigwe@gmail.com)
